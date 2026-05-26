@@ -33,12 +33,6 @@ Foydalanuvchilarga ingliz, rus va o'zbek tillarini mukammal o'rganishda yordam b
 
 ---
 
-## 🛠️ Oxirgi Yangilanishlar (Sizning Talablaringiz Asosida)
-
-1. **"AI Ustoz" (Chatbot) bo'limi olib tashlandi** — Chatbot o'rniga lug'at va kross/test tizimini yaxshilashga asosiy e'tibor qaratildi.
-2. **Kengaytirilgan Test Bazasi** — Endi test bo'limida har bir til varianti bo'yicha to'liq **30 tadan interaktiv savollar** mavjud bo'lib, ular foydalanuvchining grammatik va leksik bilimlarini keng qamrovli sinovdan o'tkazadi.
-3. **Avtomatik Port Sozlamasi** — Mahalliy kompyuterda yoki serverlarda ishga tushirishda `EADDRINUSE` (port bandligi) xatoligini oldini olish uchun avtomatik ravishda bo'sh portni aniqlab ishga tushuvchi port-menejeri o'rnatildi.
-
 ---
 
 ## 💻 Mahalliy Ishga Tushirish (Development Mode)
