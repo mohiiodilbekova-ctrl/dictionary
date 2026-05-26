@@ -1,0 +1,6 @@
+{
+  "name": "Lug'at - Online Lug'at va AI Yordamchi",
+  "description": "O'zbek tili asosidagi zamonaviy online lug'at, interaktiv testlar, xotira kartalari va sun'iy intellekt xizmati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
